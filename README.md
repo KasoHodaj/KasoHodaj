@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @KasoHodaj
+# Hi, I’m @KasoHodaj
 
 Welcome to my GitHub profile! Here’s a bit about me:
 
